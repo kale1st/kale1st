@@ -31,5 +31,5 @@
 [//]: # (![Adobe Illustrator]&#40;https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white&#41; )
 
 [//]: # (![Adobe InDesign]&#40;https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white&#41;)
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kale1st)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Your GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=kale1st&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kale1st&count_private=true&layout=compact&show_icons=true&theme=vue)
